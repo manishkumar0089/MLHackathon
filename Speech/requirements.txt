@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 opencv-python
+=======
+>>>>>>> 5aa9d12776c5a1aa326f9eb60902f3f1d9271507
 tensorflow
 keras
 scikit-learn
