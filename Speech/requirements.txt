@@ -1,6 +1,3 @@
-numpy 
-os
-pandas
 opencv-python
 tensorflow
 keras
