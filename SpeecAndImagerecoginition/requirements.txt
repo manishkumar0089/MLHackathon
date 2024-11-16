@@ -1,0 +1,10 @@
+numpy 
+os
+pandas
+opencv-python
+tensorflow
+keras
+scikit-learn
+streamlit
+joblib
+svm
